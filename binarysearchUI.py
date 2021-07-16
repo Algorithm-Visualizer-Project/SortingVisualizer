@@ -6,7 +6,7 @@ import random
 
 array = []
 window = Tk()
-window.title("Binary Search Visulaizer")
+window.title("Binary Search Visualizer")
 
 def checkSpeed():
     if Speed_select.get() == 'Slow':
