@@ -8,12 +8,12 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Project Description</a>
+      <a href="#project-description">Project Description</a>
     </li>
     <li>
       <a href="#installation-and-usage">Installation and Usage</a>
     </li>
-    <li><a href="#contributors">Tools and Contributors</a></li>
+    <li><a href="#tools-and-contributors">Tools and Contributors</a></li>
   </ol>
 </details>
 
