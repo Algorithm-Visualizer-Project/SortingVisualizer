@@ -57,14 +57,13 @@ This project contains visualization of two types of algorithms (Searching and So
     * Similar to Selection Sort, divides its input into a sorted and an unsorted region, and iteratively shrinks the unsorted region by extracting the largest element from it and inserting it into the sorted region.
     * Works in Time Complexing O(nlog(n))
 
-
+### [Reference Images](images)
 <!-- Installation and Usage -->
 ## Installation and Usage
 
 1. Clone the repository onto your local system
 2. Visualizing Sorting Algorithms
     * Compile and Run sortingUI.py file in your computer
-    * A window like this will appear
     * Select the visualization speed from the drop down menu
     * Select the required array size from the slider option
     * Click on the Generate New Array Button to generate a random array of the selected array size.
@@ -72,7 +71,6 @@ This project contains visualization of two types of algorithms (Searching and So
     
 3. Visualizing Binary / Ternary Search
     * Compile and Run binarySearchUI.py / ternarysearchUI.py file in your computer
-    * A window like this will appear
     * Select the visualization speed from the drop down menu
     * Select the required array size from the slider option
     * Click on the Generate New Sorted Array Button to generate a random array of the selected array size.
